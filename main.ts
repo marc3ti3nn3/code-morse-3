@@ -189,14 +189,12 @@ function W () {
     lettre()
 }
 basic.forever(function () {
-    M()
-    I()
     C()
+    A()
     R()
-    O()
-    mots()
-    B()
-    I()
+    H()
+    A()
+    T()
     T()
     mots()
 })
